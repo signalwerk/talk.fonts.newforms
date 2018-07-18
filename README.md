@@ -28,6 +28,12 @@ Stefan Huber lebt und arbeitet als selbständiger Entwickler und Gestalter in Z�
   * Schrift in Bewegung
   * Alternatives Lesen für Schrift – [Spritz](http://spritzinc.com/), [Bionic Reading](http://bionic-reading.com/), ...
 
+## Technische Anforderung
+* Projektor (Beamer) mit mindestens XGA-Auflösung (1024 × 768px) und [HDMI Type A Anschluss](https://en.wikipedia.org/wiki/HDMI#/media/File:HDMI_Connector_Types.png). Als Zuspielgerät dient ein MacBook Pro (15-Zoll, 2016)
+* Strom (220–230 Volt bei 50 Hertz) beim Laptop mit einem Schweizer Stecker (Typ J SEV 1011) 
+* Internet über WiFi/WLAN mit mindestens 10Mbit/s
+* Tonverstärkende Anlage für Sound. Tonausgabe ab 3.5 mm TRS connector (auch genannt mini-jack oder Kopfhöreranschluss). 
+* Sprachverstärkende Anlage nach ermessen des Veranstalters. Wenn möglich ohne den Einsatz von Händen (Ansteckmikro)
 
 ## Lizenzen
 Alle von Stefan Huber erarbeiteten Unterlagen für den Talk sind frei für den weiteren Gebrauch unter der [Creative Commons Lizenz (CC-BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
