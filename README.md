@@ -5,8 +5,10 @@ Vorschlag für einen Talk über die Verwendung von Schrift im 21. Jahrhundert.
 * Ort: Literaturtage Zofingen
 * Datum: 18. Oktober 2018 – 19 Uhr
 * Titel: «Neue Schriften! – Neue Sprache?»
-* Weitere Sprecher: [Nina Gamsachurdia](http://www.nina-gamsachurdia.ch/)
+* Weitere Sprecher: [Nina Gamsachurdia](http://www.nina-gamsachurdia.ch/) 
+* Abfolge: Nina Gamsachurdia, Stefan Huber, Gespräch
 * Dauer: 20–25 Mintuten (oder nach Absprache)
+* Projektverantwortung: Björn Siegrist, 078 789 21 97
 
 ## Sprecher
 Stefan Huber lebt und arbeitet als selbständiger Entwickler und Gestalter in Zürich. Macht die Konzeption und Realisation für blinkende Dinge im Web und ist Dozent an der [Schule für Gestaltung Zürich](http://sfgz.ch/).
