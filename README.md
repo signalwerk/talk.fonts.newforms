@@ -3,7 +3,7 @@ Vorschlag für einen Talk über die Verwendung von Schrift im 21. Jahrhundert.
 
 ## Rahmen
 * Ort: Literaturtage Zofingen
-* Datum: 17. oder 18. Oktober 2018 – abends
+* Datum: 18. Oktober 2018 – 19 Uhr
 * Titel: «Neue Schriften! – Neue Sprache?»
 * Weitere Sprecher: [Nina Gamsachurdia](http://www.nina-gamsachurdia.ch/)
 * Dauer: 20–25 Mintuten (oder nach Absprache)
